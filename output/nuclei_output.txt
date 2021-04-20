@@ -1,1 +1,17 @@
 [[36m2021-04-20 09:44:38[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] http://apis.salm.viruspolku.pk28.meituan.com
+[[36m2021-04-20 10:56:30[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abs-zero.twimg.com
+[[36m2021-04-20 11:02:25[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://edge.cnames.video.twimg.com
+[[36m2021-04-20 11:04:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://hls.periscope.tv
+[[36m2021-04-20 11:04:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://hls.pscp.tv
+[[36m2021-04-20 11:07:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://ma-zero.twimg.com
+[[36m2021-04-20 11:07:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://ma0.twimg.com
+[[36m2021-04-20 11:07:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://ma1.twimg.com
+[[36m2021-04-20 11:07:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://ma2.twimg.com
+[[36m2021-04-20 11:07:26[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://ma3.twimg.com
+[[36m2021-04-20 11:09:24[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://o-0.twimg.com
+[[36m2021-04-20 11:09:24[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://o-zero.twimg.com
+[[36m2021-04-20 11:10:14[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://pbs-zero.twimg.com
+[[36m2021-04-20 11:13:14[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://test.twimg.com
+[[36m2021-04-20 11:14:06[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://video-zero.twimg.com
+[[36m2021-04-20 11:14:42[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://wildcard.twimg.com
+[[36m2021-04-20 11:15:45[0m] [[92mfastly-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://zero.twimg.com
