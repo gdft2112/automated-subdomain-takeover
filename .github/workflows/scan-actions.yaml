@@ -39,7 +39,7 @@ jobs:
       - name: Running Scanner
         run: |
           nuclei -update-templates
-          subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t takeovers/ | anew output/nuclei_output.txt
+          cat output/active_urls.txt | nuclei -silent -t cves/2019/ | anew output/nuclei_output.txt
         shell: bash
 
       - name: Sorting the output results
@@ -49,8 +49,6 @@ jobs:
 
       - name: Create local changes
         run: |
-          git add output/passive_subdomains.txt
-          git add output/active_urls.txt
           git add output/nuclei_output.txt
 
       - name: Commit results to Github
