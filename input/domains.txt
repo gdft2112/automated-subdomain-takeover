@@ -8,3 +8,4 @@ vine.co
 periscope.tv
 pscp.tv
 twimg.com
+my.games
