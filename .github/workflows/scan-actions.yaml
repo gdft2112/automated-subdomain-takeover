@@ -30,21 +30,12 @@ jobs:
         env:
           GO111MODULE: on
         run: |
-          go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
-          go get -v github.com/projectdiscovery/httpx/cmd/httpx
-          go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
-          go get -u github.com/tomnomnom/anew
+          go get -u github.com/ffuf/ffuf
         shell: bash
 
       - name: Running Scanner
         run: |
-          nuclei -update-templates
-          subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t takeovers/ | anew output/nuclei_output.txt
-        shell: bash
-
-      - name: Sorting the output results
-        run: |
-          find output -type f -exec sort {} -o {} \;
+          ffuf -u https://fe-config.meituan.com/bm/config/ect/FUZZ -w input/content_discovery_all.txt|tee output/ffuf.txt
         shell: bash
 
       - name: Create local changes
