@@ -35,7 +35,7 @@ jobs:
 
       - name: Running Scanner
         run: |
-          ffuf -u https://fe-config.meituan.com/bm/FUZZ -w input/content_discovery_all.txt|tee output/ffuf.txt
+          ffuf -u https://fe-config.meituan.com/bm/config/monitor/FUZZ -w input/content_discovery_all.txt|tee output/ffuf.txt
         shell: bash
 
       - name: Create local changes
