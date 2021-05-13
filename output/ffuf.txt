@@ -1,3 +1,6 @@
-[2K.                       [Status: 301, Size: 278, Words: 22, Lines: 9]
 [2K                        [Status: 403, Size: 254, Words: 21, Lines: 8]
 [2K/                       [Status: 403, Size: 254, Words: 21, Lines: 8]
+[2K.                       [Status: 301, Size: 278, Words: 22, Lines: 9]
+[2Kbm                      [Status: 301, Size: 278, Words: 22, Lines: 9]
+[2Kbm/                     [Status: 403, Size: 254, Words: 21, Lines: 8]
+[2Kfavicon.ico             [Status: 200, Size: 803, Words: 6, Lines: 5]
