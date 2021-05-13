@@ -1,6 +1,3 @@
-[2K/                       [Status: 403, Size: 254, Words: 21, Lines: 8]
 [2K.                       [Status: 301, Size: 278, Words: 22, Lines: 9]
 [2K                        [Status: 403, Size: 254, Words: 21, Lines: 8]
-[2Kactivity                [Status: 301, Size: 278, Words: 22, Lines: 9]
-[2Kconfig/                 [Status: 403, Size: 254, Words: 21, Lines: 8]
-[2Kconfig                  [Status: 301, Size: 278, Words: 22, Lines: 9]
+[2K/                       [Status: 403, Size: 254, Words: 21, Lines: 8]
